@@ -1,0 +1,3 @@
+C:/Users/nmls1/ProjetoDA_2/cmake-build-debug/CMakeFiles/ProjetoDA_2.dir
+C:/Users/nmls1/ProjetoDA_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nmls1/ProjetoDA_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

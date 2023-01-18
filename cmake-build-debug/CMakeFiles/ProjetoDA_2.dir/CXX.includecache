@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/nmls1/ProjetoDA_2/Graph2.cpp
+Graph2.h
+C:/Users/nmls1/ProjetoDA_2/Graph2.h
+MaxHeapPQ.h
+C:/Users/nmls1/ProjetoDA_2/MaxHeapPQ.h
+MinHeapPQ.h
+C:/Users/nmls1/ProjetoDA_2/MinHeapPQ.h
+algorithm
+C:/Users/nmls1/ProjetoDA_2/algorithm
+
+C:/Users/nmls1/ProjetoDA_2/Graph2.h
+iostream
+-
+vector
+-
+queue
+-
+limits
+-
+list
+-
+algorithm
+-
+
+C:/Users/nmls1/ProjetoDA_2/MaxHeapPQ.h
+vector
+-
+unordered_map
+-
+
+C:/Users/nmls1/ProjetoDA_2/MinHeapPQ.h
+vector
+-
+unordered_map
+-
+
